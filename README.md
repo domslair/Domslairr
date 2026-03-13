@@ -14,9 +14,9 @@ I love creating projects that are not just useful but also **visually appealing*
 [![Portfolio](https://img.shields.io/badge/Portfolio-domslair.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://domslair.vercel.app)  
 
 ## 📊 GitHub Stats
-![Domslair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domslair&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Domslair&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Domslair&theme=tokyonight)  
+![Domslair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domslairr&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Domslairr&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Domslairr&theme=tokyonight)  
 
 ## ⚡ Fun Fact
 I love experimenting with **cool tech stacks**, automations, and aesthetically pleasing UI/UX projects.  
