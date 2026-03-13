@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Domslair 👋
 
-<!--
-**Domslairr/Domslairr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer and tech enthusiast who loves building modern, functional, and aesthetic web experiences.
 
-Here are some ideas to get you started:
+- 💻 I build projects from front-end designs to back-end solutions.
+- 🌱 Always learning new frameworks, tools, and technologies.
+- 🎨 Focused on creating projects that are both functional and visually appealing.
+- 🚀 Open to collaboration and new challenges in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-@domslair-833AB4?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/domslair)
+[![Twitter](https://img.shields.io/badge/Twitter-@domslair1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/domslair1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-domslair.vercel.app-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://domslair.vercel.app)
+
+## GitHub Stats
+![Domslair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domslair&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domslair&layout=compact&theme=radical)
