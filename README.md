@@ -24,7 +24,7 @@ I enjoy creating scalable systems with clean architecture, optimized performance
 
 ### What I work with
 
-- ⚡ Minecraft Server Development (Spigot, Paper, Bukkit)
+- ⚡ Minecraft Server Development
 - ☕ Advanced Java Development
 - 🌐 Full Stack Website Development
 - 🤖 Discord Bot Development
