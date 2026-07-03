@@ -58,8 +58,12 @@ I enjoy creating scalable systems with clean architecture, optimized performance
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,ts,react,nextjs,html,css,tailwind,mongodb,mysql,git,github,docker,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,react,nextjs,html,css,tailwind,mongodb,mysql,git,github,docker,linux,idea,vscode&perline=9"/>
 
+</p>
+
+<p align="center">
+Minecraft Development • Discord Bot Development • Full Stack Web Development
 </p>
 
 ---
