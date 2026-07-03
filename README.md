@@ -70,7 +70,7 @@ Minecraft Development • Discord Bot Development • Full Stack Web Development
 
 # 📈 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Domslair&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
@@ -82,6 +82,14 @@ Minecraft Development • Discord Bot Development • Full Stack Web Development
 
 <img src="https://streak-stats.demolab.com?user=Domslair&theme=tokyonight&hide_border=true"/>
 
+</p> -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Domslair&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Domslair&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com?user=Domslair&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
